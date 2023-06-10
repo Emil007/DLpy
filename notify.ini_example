@@ -1,0 +1,13 @@
+[Pushover1]
+user_key = u8KdcauGxpTm4mmogBT6FweGrJUsmv
+api_token = a8m75gbkdm8oh1az6uye8dyiedsw78
+
+#[Pushover2]
+#user_key = YOUR_USER_KEY_2
+#api_token = YOUR_API_TOKEN_2
+
+[Pushbullet1]
+access_token = o.xbEidwElVYGVSDK5F1uX0r1ZyVe5ovSt
+
+#[Pushbullet2]
+#access_token = YOUR_ACCESS_TOKEN_2
